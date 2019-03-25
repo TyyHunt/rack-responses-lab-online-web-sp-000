@@ -5,7 +5,7 @@ class Application
 
     time = time.new
     resp.write "#{time}"
-    
+
     resp.finish
 
   end
